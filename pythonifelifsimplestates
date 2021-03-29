@@ -1,0 +1,64 @@
+x=0
+while x<27:
+
+    c=input("Enter Two Initials Of any State's Of India : ").upper()
+    if c =='DE':
+        print("DELHI Capital of 'INDIA' ")
+
+    elif c=='MH':
+        print("Maharashtra")
+    elif c == 'UP':
+        print("Uttar Pradeh")
+    elif c=='TA':
+        print("Tamil Nadu")
+    elif c == 'AN':
+        print("Andra Pradeh")
+    elif c =='WB':
+        print("West Bengal")
+    elif c =='PU':
+        print("Punjab")
+    elif c =='RA':
+        print("Rajashthan")
+    elif c =='SI':
+        print("Sikkim")
+    elif c =='AR':
+        print("Arunachal Pradesh")
+    elif c =='JK':
+        print("Jammu & Kashmir")
+    elif c =='HI':
+        print("Himachal Pradesh")
+    elif c =='KE':
+        print("Kerala")
+    elif c =='PO':
+        print("Pondycherry")
+    elif c =='GU':
+        print("Gujarat")
+    elif c =='KA':
+        print("Karnataka")
+    elif c =='BI':
+        print("Bihar")
+    elif c =='MP':
+        print("Madhya Pradesh")
+    elif c =='OD':
+        print("Odhisa")
+    elif c =='CH':
+        print("Chhatisghar")
+    elif c =='GO':
+        print("Goa")
+    elif c =='JH':
+        print("Jharkhand")
+    elif c =='TE':
+        print("Telangana")
+    elif c =='MA':
+        print("Manipur")
+    elif c =='NA':
+        print("Nagaland")
+    elif c =='ME':
+        print("Meghalaya")
+    elif c =='TR':
+        print("Tripura")
+    elif c =='UT':
+        print("Uttarakhand")
+    else:
+        print("invalid")
+x=x+1
